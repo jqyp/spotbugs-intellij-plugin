@@ -143,6 +143,8 @@ jacocoTestReport {
     }
 }
 
+buildSearchableOptions.enabled = false
+
 wrapper {
     gradleVersion = '6.3'
 }
