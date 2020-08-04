@@ -107,13 +107,13 @@ tasks.jacocoTestCoverageVerification.dependsOn(deleteThirdPartyPlugins)
 
 test {
     finalizedBy jacocoTestReport
+    systemProperty "idea.home.path", "/Users/cherkasov/IdeaProjects/intellij-community"
 }
 
 jacocoTestReport {
     dependsOn test
     reports {
         xml.enabled true
-        html.enabled false
         csv.enabled false
     }
 }
