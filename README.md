@@ -1,6 +1,5 @@
 # IntelliJ SpotBugs plugin
 
-
 [![team JetBrains project](https://jb.gg/badges/team.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 ![Build](https://github.com/JetBrains/spotbugs-intellij-plugin/workflows/Build/badge.svg?branch=master)
 [![codecov](https://codecov.io/gh/JetBrains/spotbugs-intellij-plugin/branch/master/graph/badge.svg)](https://codecov.io/gh/JetBrains/spotbugs-intellij-plugin)
